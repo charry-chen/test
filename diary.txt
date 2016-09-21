@@ -1,2 +1,5 @@
 today is sunday
-2016 9 20 windy two
+<<<<<<< HEAD
+2016 9 20 windy two 
+
+>>>>>>> e9620264a7b2dad32f575e337fa1b3fa6afa422e
