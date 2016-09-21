@@ -1,9 +1,9 @@
 today is funny
 <<<<<<< HEAD
-I am a boy
+I am a boy(windows)
 =======
 <<<<<<< HEAD
-I am not a girl
+I am not a girl(windows)
 =======
 >>>>>>> 6d1c832f6665392eae142793f2ec44a4447d1ff8
 >>>>>>> 65bbe34e4bdb5493ae5dd3e9a747dad71f7ba5c2
