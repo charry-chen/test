@@ -1,6 +1,6 @@
 today is funny
 <<<<<<< HEAD
-I am not a boy(windows)
+I am a boy(windows)
 =======
 <<<<<<< HEAD
 I am not a girl(windows)
